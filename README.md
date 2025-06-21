@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Sukh 👋  
 
-<!--
-**sukhdaku/sukhdaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative **Web Developer**, **Discord Bot Dev & Reverse Engineer**. Passionate about interactive designs, seamless user experiences, and advanced **memory manipulation** techniques. 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools  
+- **JavaScript & Frontend Libraries:** React.js, GSAP, and more  
+- **Styling:** CSS, Sass, and other modern styling solutions
+- **.NET (C#):** Developed performant desktop applications and built [Nexx32Lib](https://www.nuget.org/packages/Nexx32Lib) — an easy-to-use C# library for fast game memory manipulation with AOB scan & replace, supporting both 32-bit and 64-bit processes.
+- **Python (Discord Bots):** Developed multiple feature-rich Discord bots with custom commands, automation, and user interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+📬 Get in Touch
+Whether you have a project in mind, a collaboration idea, or just want to say hi — I'm always open to connecting!
+
+📸 Instagram: [@sukh_regdit](https://www.instagram.com/nexxlokesh/)
+
+📧 Email: amprince9465@gmail.com
+
+🧑‍💻 Portfolio: [Portfolio](https://nexxlokesh.pro/)
+
+<div align="center"> <strong>Let’s build something amazing together.</strong><br> <em>Crafting seamless experiences for brands</em> 💻✨ </div>
