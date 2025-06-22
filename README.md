@@ -17,6 +17,6 @@ Whether you have a project in mind, a collaboration idea, or just want to say hi
 
 📧 Email: amprince9465@gmail.com
 
-🧑‍💻 Portfolio: [Portfolio](https://nexxlokesh.pro/)
+🧑‍💻 Portfolio: [Portfolio](https://jwt-web.onrender.com)
 
 <div align="center"> <strong>Let’s build something amazing together.</strong><br> <em>Crafting seamless experiences for brands</em> 💻✨ </div>
